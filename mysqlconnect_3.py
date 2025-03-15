@@ -98,7 +98,7 @@ def insert_competitors(data):
 # Insert Rankings Data
 def insert_rankings(data):
     if not data or "rankings" not in data:
-        print("⚠ No rankings data available or endpoint issue.")
+        print("No rankings data available or endpoint issue.")
         return
 
     connection = get_db_connection()
