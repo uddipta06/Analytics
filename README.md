@@ -1,2 +1,1 @@
-# Analytics
-Game Analytics: Unlocking Tennis Data with SportRader API
+"The SportRadar Event Explorer is a dynamic tool for managing, visualizing, and analyzing sports competition data sourced from the Sportradar API. It parses JSON data, organizes it in a relational database, and provides insightful views of tournaments, competition structures, and event details. This project is tailored for sports enthusiasts, analysts, and organizations seeking to explore competition dynamics and event trends interactively."
